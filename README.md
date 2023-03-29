@@ -40,6 +40,12 @@ The performance of the model is evaluated using a test set that is separate from
 The trained model is deployed as a web application using the Streamlit library in Python. Streamlit is a popular library for building interactive web applications with machine learning models.  
 
 The web application allows users to enter a text message and receive a prediction of whether it is spam or not spam.
+#### Screenshots
+For a non-spam message:  
+<img src="screenshots/fornonspammsg.png" height="300">  
+
+For a spam message:  
+<img src="screenshots/forspammsg.png" height="300">  
 
 
 ### Files 
@@ -51,6 +57,6 @@ The web application allows users to enter a text message and receive a predictio
 ### Getting Started
 To run the web application, follow these steps:  
 1. Clone this repository.
-2. Navigate  ` cd spam-sms-classifier-application`
-3. Run the web application: `cd venv && streamlit run app.py`
+2. Navigate `cd spam-sms-classifier-application/venv`
+3. Run the web application: `streamlit run app.py`
 
