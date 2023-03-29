@@ -29,7 +29,7 @@ The dataset used to train the model is the `SMS Spam Collection dataset` from th
 
 The preprocessing is implemented using the NLTK library.
 
-\
+
 ### Model Training  
 The model was trained using a Naive Bayes classifier, which is a probabilistic machine learning algorithm that is commonly used for text classification tasks.  
 The preprocessed text data is vectorized using a TF-IDF vectorizer. TF-IDF stands for term frequency-inverse document frequency and is a commonly used method for text vectorization in natural language processing. It assigns a weight to each word in the text based on its frequency and how common it is across all documents in the dataset.  
