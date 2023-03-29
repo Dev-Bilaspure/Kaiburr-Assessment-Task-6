@@ -1,5 +1,5 @@
-# Task-5-Kaiburr-Assessment
-#### The purpose of this repository is to provide a solution to Task 5 from the Kaiburr's Assessment. Submitted by Dev Bilaspure.
+# Task-6-Kaiburr-Assessment
+#### The purpose of this repository is to provide a solution to Task 6 from the Kaiburr's Assessment. Submitted by Dev Bilaspure.
 
 ### Task Description
 The task is to implement a sample machine learning program for a problem statement of our choice.
