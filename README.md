@@ -1,4 +1,4 @@
-# Kaiburr-Assessment-Tast-5
+# Task-5-Kaiburr-Assessment
 #### The purpose of this repository is to provide a solution to Task 5 from the Kaiburr's Assessment. Submitted by Dev Bilaspure.
 
 ### Task Description
